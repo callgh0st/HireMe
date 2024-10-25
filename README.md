@@ -1,6 +1,6 @@
 # ApplicantHub
 
-**ApplicantHub** is a Solidity smart contract project developed to consolidate and manage job applicant information on the Ethereum blockchain. This project was created to apply the knowledge gained from the Solidity course on Cyfrin.
+**ApplicantHub** is a Solidity smart contract project developed to consolidate and manage job applicant information on blockchain. This project was created to apply the knowledge gained from Solidity Smart Contract Development course on Cyfrin.
 
 ## Features
 
@@ -11,3 +11,5 @@
 ## Purpose
 
 The primary purpose of ApplicantHub is to serve as a practical application of Solidity concepts while providing a robust framework for managing applicant data securely on the blockchain.
+
+https://updraft.cyfrin.io/courses/solidity
