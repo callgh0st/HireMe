@@ -1,6 +1,6 @@
-# ApplicantHub
+# HireMe
 
-**ApplicantHub** is a Solidity smart contract project developed to consolidate and manage job applicant information on blockchain. This project was created to apply the knowledge gained from Solidity Smart Contract Development course on Cyfrin.
+This project was created to apply the knowledge i gained from Solidity Smart Contract Development course on Cyfrin. **HireMe** is a Solidity smart contract project developed to consolidate and manage job applicant information on blockchain. 
 
 ## Features
 
